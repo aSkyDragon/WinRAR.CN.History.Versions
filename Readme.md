@@ -2,7 +2,7 @@
 
 从`WinRAR 5.40`正式版后, WinRAR简体中文版代理商在`非商业个人版`的程序中内置了即使购买了授权也无法去除的广告页面.
 
-本集合中均为未被内置广告的官方简中版本, `RRLB`版和`WRR`版均包含. 其中`RRLB`为开发商发布的版本, `WRR`为发行商发行的版本.
+本集合中均为未被内置广告的官方`40天评估版本`的简中版本, `RRLB`版和`WRR`版均包含. 其中`RRLB`为开发商自行签名发行的版本, `WRR`为委托发行商签名发行的版本.
 所有版本均只收录**Final release**.
 
 若从开发商RARLAB(https://www.rarlab.com)购买, 则购买获得的下载链接对应为`RRLB`版本;\
@@ -38,18 +38,13 @@
 
 ## 下载链接
 
-部分地区通过官方直链下载缓慢, 可通过网盘镜像下载:
-
-- 文叔叔(免登录不限速): 前往文叔叔首页, 右上角输入钥匙串: `wss:37SxyTu4Z7CA0YdEBtyCAeryLzu`;
-- 阿里云盘(不常更新): https://www.alipan.com/s/8MV1QZ8kAF3;
-
-官方直链全部罗列在下方. 前缀缩写wrr代表`WRR`版, rlb代表`RRLB`版.
+通过下方整理的官方链接直接下载. 前缀缩写wrr代表`WRR`版, rlb代表`RRLB`版.
 
 ### 版本7.x
 
 版本7的所有版本分支及其更新日志列于下表:
 
-| 版本号 | 发布日期    | 更新日志 |
+| 版本号 | 发布日期   | 更新日志 |
 |:-----:|:----------:|:-------|
 | 7.00  | 2024.02.28 | https://www.win-rar.com/singlenewsview.html?&L=0&tx_ttnews%5Btt_news%5D=251&cHash=843e9e875ad0ca0e28e4b14ef34d17cd |
 | 7.01  | 2024.05.15 | https://www.win-rar.com/singlenewsview.html?&L=0&tx_ttnews%5Btt_news%5D=257&cHash=585c31ee73389bcd86f252a7b08999a1 |
@@ -57,13 +52,17 @@
 | 7.11  | 2025.03.24 | https://www.win-rar.com/singlenewsview.html?&L=0&tx_ttnews%5Btt_news%5D=270&cHash=3bc029d677efa0590659f99f87680b54 |
 | 7.12  | 2025.06.25 | https://www.win-rar.com/singlenewsview.html?&L=0&tx_ttnews%5Btt_news%5D=278&cHash=7a94264c6c27255629324ca28264f28e |
 | 7.13  | 2025.07.30 | https://www.win-rar.com/singlenewsview.html?&L=0&tx_ttnews%5Btt_news%5D=283&cHash=a64b4a8f662d3639dec8d65f47bc93c5 |
-|       |            |   |
-|       |            |   |
-
+| 7.20  | 2026.04.02 | https://www.win-rar.com/singlenewsview.html?&L=0&tx_ttnews%5Btt_news%5D=294&cHash=1a8c08a5afc8448ebec2da2c6930785b |
+| 7.21  | 2026.04.29 | https://www.win-rar.com/singlenewsview.html?&L=0&tx_ttnews%5Btt_news%5D=298&cHash=5dff4e83e2a2460ece9c2aad527eb3de |
+| 7.22  | 2026.05.01 | https://www.win-rar.com/singlenewsview.html?&L=0&tx_ttnews%5Btt_news%5D=301&cHash=a5419bba4465f83b28e46b856b2e7c2d |
+| 7.23  | 2026.06.30 | https://www.win-rar.com/singlenewsview.html?&L=0&tx_ttnews%5Btt_news%5D=304&cHash=0c65306ac391a7c5e6f3056a035efe08 |
 
 ... 待更新 ...
 
-
+> [!TIP]
+> 自7.20版本开始, 通过英文官网直接下载, 即可获得`40天评估版本`. \
+> TODO: 更新7.20+版本链接 \
+> REFERENCE: https://zhuanlan.zhihu.com/p/692561504.
 
 #### 7.13
 
@@ -113,7 +112,7 @@
 
 版本6的所有版本分支及其更新日志列于下表:
 
-| 版本号 | 发布日期    | 更新日志 |
+| 版本号 | 发布日期   | 更新日志 |
 |:-----:|:----------:|:-------|
 | 6.00  | 2020.12.07 | https://www.win-rar.com/singlenewsview.html?&L=0&tx_ttnews%5Btt_news%5D=155&cHash=3f0ed7cbb5b8c84eed391d6a3372c9f0 |
 | 6.01  | 2021.04.12 | https://www.win-rar.com/singlenewsview.html?&L=0&tx_ttnews%5Btt_news%5D=159&cHash=fa1f33b8c4b56191a5b25399a4638cc5 |
@@ -224,7 +223,7 @@
 
 版本5的所有版本分支及其更新日志列于下表:
 
-| 版本号 | 发布日期    | 更新日志 |
+| 版本号 | 发布日期   | 更新日志 |
 |:-----:|:----------:|:-------|
 | 5.00  | 2013.09.03 | https://www.win-rar.com/singlenewsview.html?&L=0&tx_ttnews%5Btt_news%5D=22&cHash=b5b24e882a6c9114afcd55b2fb6a88de  |
 | 5.01  | 2013.12.03 | https://www.win-rar.com/singlenewsview.html?&L=0&tx_ttnews%5Btt_news%5D=21&cHash=53a0b9855ac021b81478b9201c7f922d  |
