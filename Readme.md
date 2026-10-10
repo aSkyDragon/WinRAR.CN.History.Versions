@@ -5,8 +5,8 @@
 本集合中均为未被内置广告的官方`40天评估版本`的简中版本, `RRLB`版和`WRR`版均包含. 其中`RRLB`为开发商自行签名发行的版本, `WRR`为委托发行商签名发行的版本.
 所有版本均只收录**Final release**.
 
-若从开发商RARLAB(https://www.rarlab.com)购买, 则购买获得的下载链接对应为`RRLB`版本;\
-若从发行商win.rar GmbH(https://www.win-rar.com)购买, 则购买获得的下载链接对应为`WRR`版本.
+若从开发商 [RARLAB](https://www.rarlab.com) 购买, 则购买获得的下载链接对应为`RRLB`版本;\
+若从发行商 [win.rar GmbH](https://www.win-rar.com) 购买, 则购买获得的下载链接对应为`WRR`版本.
 
 两者在功能上无区别, 只是数字签名和签名时间稍有不同.
 
